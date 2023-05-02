@@ -1,0 +1,14 @@
+{
+    "secret_data": {
+        "api_key": "YOUR API KEY",
+        "access_token" : "YOR ACESSS TOKEN",
+        "refresh_token" : "YOUR",
+        "client_id" : "YOUR",
+        "client_secret" : "YOUR"
+    },
+    "user_data": {
+        "comment": "I love ur vids LOOL(also please give me that HUGEEEEEEE) - name",
+        "channel_id": "UCEvC-HQ7ST5h8iC1IDgVtgw",
+        "minutes": 3
+    }
+}
